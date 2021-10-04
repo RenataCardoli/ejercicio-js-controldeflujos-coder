@@ -11,6 +11,4 @@ Nombres de los colaboradores e información de contacto:
 
 ## Detalles del ejercicio
 * Crear un Algoritmo que solicite al usuario uno o mais valores ingresados por prompt() compare las entradas y, en funcion de ciertas condifiones, muestre por consola o alert() el resultado según los valores ingresados y las condiciones.
-* 
-# ejercicio-js-controldeflujos-coder
 
